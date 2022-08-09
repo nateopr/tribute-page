@@ -1,0 +1,53 @@
+#segments {
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 10px;
+    border-bottom: 4px solid black;
+  }
+  
+  #img-div {
+    background: white;
+  }
+  
+  #image {
+    padding-top: 5%;
+    max-height: 50%;
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+  }
+  
+  #main {
+    background: #EEEEEE;
+  }
+  
+  #title {
+    padding: 10 0 0 0;
+    margin-bottom: -15;
+    text-align: center;
+  }
+  
+  #subtitle {
+    text-align: center;
+    padding: 
+  }
+  
+  #img-caption {
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 1%;
+  }
+  
+  #tribute-info {
+    padding: 5% 10% 5% 10%;
+  }
+  #reference {
+    font-size: 20px;
+  }
+  
+  #list-items {
+    margin-top: 16px;
+  }
